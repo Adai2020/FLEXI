@@ -69,11 +69,23 @@ The entire process typically finishes in ~10 minutes on the recommended hardware
 
 ## Quick Demo
 
+### Instructions to run on data
+
 1. Clone or download the repository.  
 2. Open the notebook `FLEXI-4-ECG-test.ipynb`.  
 3. Double-click the notebook to launch Jupyter.  
 4. Select **Kernel → Change Kernel** and choose the Python environment you just created.  
 5. Click **Cell → Run All** to execute the entire demo.
+
+### Expected output
+
+The network has 122 weights that need to be deployed.
+NET_1k_ECG(...)
+The test accuracy after quantization is: 99.20%
+
+### Expected run time
+
+3s
 
 ---
 
