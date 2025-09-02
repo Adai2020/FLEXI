@@ -30,7 +30,7 @@ Benchmark timings reported below were collected on a machine with 32 GB RAM, 12 
 
 #### OS Requirements
 
-The package is actively supported and tested on **Windows**:
+This package is supported for **Windows**. The package has been tested on the following systems:
 
 - Windows 10 / 11
 
