@@ -34,6 +34,10 @@ This package is supported for **Windows**. The package has been tested on the fo
 
 - Windows 10 / 11
 
+#### Python Version
+
+- **Python 3.9.18** (64-bit)
+
 #### Python Dependencies
 
 `FLEXI` relies on the standard scientific-Python stack:
@@ -65,13 +69,15 @@ python3 setup.py install
 The entire process typically finishes in ~10 minutes on the recommended hardware.
 
 ## Quick Demo
-1. Clone or download the repository.
-2. Open the notebook FLEXI-4-ECG-test.ipynb.
-3. Double-click the notebook to launch Jupyter.
-4. Select Kernel → Change Kernel and choose the Python environment you just created.
-5. Click Cell → Run All to execute the entire demo.
+
+1. Clone or download the repository.  
+2. Open the notebook `FLEXI-4-ECG-test.ipynb`.  
+3. Double-click the notebook to launch Jupyter.  
+4. Select **Kernel → Change Kernel** and choose the Python environment you just created.  
+5. Click **Cell → Run All** to execute the entire demo.
+
+---
 
 ## License
-This project is covered under the Apache 2.0 License.
 
-
+This project is licensed under the **Apache-2.0 License**.
