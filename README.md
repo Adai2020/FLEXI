@@ -42,16 +42,16 @@ This package is supported for **Windows**. The package has been tested on the fo
 
 `FLEXI` relies on the standard scientific-Python stack:
 
-- numpy  
-- scipy  
-- scikit-learn  
-- pandas  
-- seaborn
-- torch
-- torchvision
-- matplotlib
-- librosa
-- os
+- numpy==1.26.0  
+- scipy==1.11.4  
+- scikit-learn==1.3.2  
+- pandas==2.2.2  
+- seaborn==0.13.2  
+- torch==2.1.0  
+- torchvision==0.16.0  
+- matplotlib==3.8.2  
+- librosa==0.10.1  
+- os (built-in)
 
 (All dependencies will be installed automatically when you run the setup script.)
 
@@ -61,7 +61,6 @@ This package is supported for **Windows**. The package has been tested on the fo
 
 ### Install from GitHub
 
-```bash
 git clone https://github.com/Adai2020/FLEXI.git
 cd FLEXI
 python3 setup.py install
