@@ -91,4 +91,4 @@ The test accuracy after quantization is: 99.20%
 
 ## License
 
-This project is licensed under the **Apache-2.0 License**.
+This project is licensed under the **MIT License**.
