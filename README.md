@@ -61,9 +61,9 @@ This package is supported for **Windows**. The package has been tested on the fo
 
 ### Install from GitHub
 
-git clone https://github.com/Adai2020/FLEXI.git
-cd FLEXI
-python3 setup.py install
+git clone https://github.com/Adai2020/FLEXI.git  
+cd FLEXI  
+python3 setup.py install  
 
 The entire process typically finishes in ~10 minutes on the recommended hardware.
 
