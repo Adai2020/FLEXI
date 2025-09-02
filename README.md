@@ -87,6 +87,22 @@ The test accuracy after quantization is: 99.20%
 
 3s
 
+## Data Usage
+### Example: MNIST
+#### Two ways to download MNIST:
+From the official MNIST website, download the four gzipped files.  
+Use Python libraries like torchvision.datasets.MNIST (automatically downloads when initialized).  
+#### File placement:
+Place the downloaded files in the following directory structure within FLEXI:
+
+raw\MNIST\raw\
+  t10k-images-idx3-ubyte.gz  
+  t10k-labels-idx1-ubyte.gz  
+  train-images-idx3-ubyte.gz  
+  train-labels-idx1-ubyte.gz  
+
+
+
 ---
 
 ## License
