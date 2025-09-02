@@ -79,9 +79,9 @@ The entire process typically finishes in ~10 minutes on the recommended hardware
 
 ### Expected output
 
-The network has 122 weights that need to be deployed.
-NET_1k_ECG(...)
-The test accuracy after quantization is: 99.20%
+The network has 122 weights that need to be deployed.  
+NET_1k_ECG(...)  
+The test accuracy after quantization is: 99.20%  
 
 ### Expected run time
 
